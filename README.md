@@ -16,7 +16,7 @@ var reassemble = text.assemble(payloads);
 
 ## Installation
 
-`npm install text-assembly`
+`npm install text-assembler`
 
 ## Contributors
 
