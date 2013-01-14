@@ -1,4 +1,4 @@
-# text-assembly
+# text-assembler
 
 Splits a string into multiple parts, identified by a guid.
 
