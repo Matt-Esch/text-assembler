@@ -1,19 +1,19 @@
 {
-  "name": "text-assembly",
+  "name": "text-assembler",
   "version": "0.1.0",
   "description": "Splits a string into multiple uri-safe parts",
   "keywords": ["splitter", "text"],
   "author": "Matt-Esch <matt@mattesch.info>",
-  "repository": "git://github.com/Matt-Esch/text-assembly.git",
+  "repository": "git://github.com/Matt-Esch/text-assembler.git",
   "main": "index",
-  "homepage": "https://github.com/Matt-Esch/text-assembly",
+  "homepage": "https://github.com/Matt-Esch/text-assembler",
   "contributors": [
     {
       "name": "Matt Esch"
     }
   ],
   "bugs": {
-    "url": "https://github.com/Matt-Esch/text-assembly/issues",
+    "url": "https://github.com/Matt-Esch/text-assembler/issues",
     "email": "matt@mattesch.info"
   },
   "dependencies": {
@@ -25,7 +25,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/Matt-Esch/text-assembly/raw/master/LICENSE"
+      "url": "http://github.com/Matt-Esch/text-assembler/raw/master/LICENSE"
     }
   ],
   "scripts": {
